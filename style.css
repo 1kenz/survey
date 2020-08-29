@@ -1,0 +1,27 @@
+* {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 75px;
+    font-weight: normal;
+    margin: 0px;
+}
+
+p {
+    font-size: 24px;
+    margin: 15px 0px;
+}
+
+.question {
+    font-size: 24px;
+    margin: 15px 0px;
+}
+
+#name,
+#surname,
+#email {
+    padding: 6px 2px;
+    margin: 4px 0px;
+}
